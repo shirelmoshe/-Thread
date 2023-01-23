@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\FileString\FileInfo\bin\Debug\FileInfo.exe.config
+C:\Users\User\source\repos\FileString\FileInfo\bin\Debug\FileInfo.exe
+C:\Users\User\source\repos\FileString\FileInfo\bin\Debug\FileInfo.pdb
+C:\Users\User\source\repos\FileString\FileInfo\obj\Debug\FileInfo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FileString\FileInfo\obj\Debug\FileInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\FileString\FileInfo\obj\Debug\FileInfo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FileString\FileInfo\obj\Debug\FileInfo.exe
+C:\Users\User\source\repos\FileString\FileInfo\obj\Debug\FileInfo.pdb
